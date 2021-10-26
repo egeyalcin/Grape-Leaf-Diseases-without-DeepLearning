@@ -1,5 +1,5 @@
-### Grape Leaf Diseases
-## How to work ?
+## Grape Leaf Diseases
+### How to work ?
 
 Run the code and press any key to show the next image.
 Every image has a diseases.
